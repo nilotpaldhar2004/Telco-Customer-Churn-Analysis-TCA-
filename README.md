@@ -18,7 +18,7 @@ This project analyzes customer behavior to identify patterns leading to churn (c
 - Correlation between monthly charges and churn
 
 ## 📄 Report Link
-📄 [Click here to view the ipynb report](Telco_Customer_Analysis_TCA.ipynb)
+📄 [Click here to view the ipynb report](Telco%20Customer%20Analysis%20%28TCA%29.ipynb)
 
 ## 💡 Tools Used
 - SQL (MySQL / PostgreSQL)
