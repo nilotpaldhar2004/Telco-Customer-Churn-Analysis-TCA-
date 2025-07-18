@@ -9,7 +9,8 @@ This project uses real-world-style data to analyze customer churn in a telecom c
 - Visualize churn patterns and trends
 
 ## 📄 Report
-[📘 Click here to view the notebook](Telco_Customer_Analysis_TCA.ipynb)
+[📘 Click here to view the ipynb report](Telco%20Customer%20Analysis%20%28TCA%29.ipynb)
+
 
 ## 📊 Tools Used
 - Python (Pandas, Matplotlib, Seaborn)
