@@ -1,36 +1,29 @@
+
 # 📞 Telco Customer Churn Analysis (TCA)
 
-This project analyzes customer behavior to identify patterns leading to churn (customer leaving the telecom service). Using SQL and data visualization, it helps business teams understand why customers churn and how to reduce it.
+This project uses real-world-style data to analyze customer churn in a telecom company. It identifies key behavioral and demographic factors contributing to customer churn and offers insights to help reduce it.
 
 ## 🎯 Objectives
-- Explore customer demographics and service usage
-- Identify key churn factors using SQL and data exploration
-- Suggest actions to improve customer retention
+- Explore the relationship between service usage and customer churn
+- Perform EDA using Python and Jupyter Notebook
+- Visualize churn patterns and trends
 
-## 📂 Files Included
-- `Telco_Churn_Analysis.pdf` – Visual project report
-- `queries.sql` – SQL queries for data analysis
-- `README.md` – Project summary
+## 📄 Report
+[📘 Click here to view the notebook](Telco_Customer_Analysis_TCA.ipynb)
 
-## 📊 Key Insights
-- Churn rate by contract type, payment method, and tenure
-- Revenue loss from churned customers
-- Correlation between monthly charges and churn
+## 📊 Tools Used
+- Python (Pandas, Matplotlib, Seaborn)
+- Jupyter Notebook
+- Telco Customer Dataset (CSV)
 
-## 📄 Report Link
-📄 [Click here to view the ipynb report](Telco%20Customer%20Analysis%20%28TCA%29.ipynb)
+## 📁 Project Structure
+- `Telco_Customer_Analysis_TCA.ipynb` – Full analysis and visualizations
+- `README.md` – Project overview and usage
+- *(Optional)* `data/` – Place your dataset here
 
-## 💡 Tools Used
-- SQL (MySQL / PostgreSQL)
-- Power BI / Canva (for visualization)
-- Excel / CSV dataset
+## 💡 How to Use
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/telco-customer-churn-analysis.git
 
-## ✅ How to Use
-1. Open the SQL file in your database environment.
-2. Import Telco customer data.
-3. Run queries to reproduce insights.
-4. View or download the full PDF report.
-
-## 🙌 Credits
-This project is for learning and practice purposes only. Dataset is publicly available.
 
