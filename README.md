@@ -20,11 +20,10 @@ This project uses real-world-style data to analyze customer churn in a telecom c
 ## 📁 Project Structure
 - `Telco_Customer_Analysis_TCA.ipynb` – Full analysis and visualizations
 - `README.md` – Project overview and usage
-- *(Optional)* `data/` – Place your dataset here
+- `Customer Churn.csv` – Place your dataset here
 
 ## 💡 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/telco-customer-churn-analysis.git
-
+   git clone https://github.com/nilotpaldhar2004/telco-customer-churn-analysis.git
 
