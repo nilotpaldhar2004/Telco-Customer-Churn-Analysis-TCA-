@@ -1,5 +1,5 @@
 
-# 📞 Telco Customer Churn Analysis (TCA)
+# 📞Telco Customer Churn Analysis (TCA)
 
 This project uses real-world-style data to analyze customer churn in a telecom company. It identifies key behavioral and demographic factors contributing to customer churn and offers insights to help reduce it.
 
